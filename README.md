@@ -8,7 +8,7 @@
 
 ---
 
-## 👯 I’m looking to collaborate on
+## 👥 I’m looking to collaborate on
 
 * Open-source web tools and developer utilities (**Node.js**, CLI tools, build tooling).
 * Small-to-medium **React/Next.js** projects focusing on performance and accessibility.
